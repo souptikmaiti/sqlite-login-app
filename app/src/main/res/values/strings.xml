@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application Sqlite</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="not_a_user_register">Not A User? Register</string>
+    <string name="first_name">First Name</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone">Phone</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="update_password">Update Password</string>
+    <string name="confirm_new_password">confirm new password</string>
+    <string name="new_password">new password</string>
+</resources>
